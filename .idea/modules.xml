@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Admin/Controller/shop-admin-controller.iml" filepath="$PROJECT_DIR$/Admin/Controller/shop-admin-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Admin/Web/shop-admin-web.iml" filepath="$PROJECT_DIR$/Admin/Web/shop-admin-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Admin/shop-service (1).iml" filepath="$PROJECT_DIR$/Admin/shop-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service/shop-service (2).iml" filepath="$PROJECT_DIR$/Service/shop-service (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopDemo.iml" filepath="$PROJECT_DIR$/shopDemo.iml" />
+    </modules>
+  </component>
+</project>
